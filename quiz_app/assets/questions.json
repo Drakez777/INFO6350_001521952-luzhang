@@ -1,0 +1,62 @@
+[
+  {
+    "type": "single",
+    "question": "Which data structure uses a LIFO principle?",
+    "options": ["Queue", "Stack", "Linked List", "Graph"],
+    "correctAnswers": [1]
+  },
+  {
+    "type": "true_false",
+    "question": "A queue is First-In-First-Out (FIFO).",
+    "options": ["True", "False"],
+    "correctAnswers": [0]
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following operations are used in a stack?",
+    "options": ["push", "pop", "enqueue", "dequeue", "peek"],
+    "correctAnswers": [0, 1, 4]
+  },
+  {
+    "type": "single",
+    "question": "In a binary search tree, where are smaller elements stored relative to the root?",
+    "options": ["Right subtree", "Left subtree", "Both sides equally", "Nowhere"],
+    "correctAnswers": [1]
+  },
+  {
+    "type": "true_false",
+    "question": "A linked list has a fixed size once created.",
+    "options": ["True", "False"],
+    "correctAnswers": [1]
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are typical traversals on a binary tree?",
+    "options": ["In-order", "Post-order", "Random-order", "Level-order", "Pre-order"],
+    "correctAnswers": [0, 1, 3, 4]
+  },
+  {
+    "type": "single",
+    "question": "Which data structure can be used to implement recursion internally?",
+    "options": ["Queue", "Tree", "Stack", "Graph"],
+    "correctAnswers": [2]
+  },
+  {
+    "type": "true_false",
+    "question": "A graph can contain cycles while a tree cannot.",
+    "options": ["True", "False"],
+    "correctAnswers": [0]
+  },
+  {
+    "type": "single",
+    "question": "Which data structure is best for implementing a priority queue?",
+    "options": ["Stack", "Heap", "Linked List", "Hash Table"],
+    "correctAnswers": [1]
+  },
+  {
+    "type": "multiple",
+    "question": "Which of the following are operations typically supported by a queue?",
+    "options": ["enqueue", "dequeue", "push", "pop", "isEmpty"],
+    "correctAnswers": [0, 1, 4]
+  }
+]

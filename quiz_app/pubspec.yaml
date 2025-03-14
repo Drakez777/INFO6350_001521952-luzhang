@@ -1,0 +1,19 @@
+name: quiz_app
+description: A new Flutter project.
+
+publish_to: "none" # If you don’t plan to publish this publicly
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # any other dependencies
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/questions.json
